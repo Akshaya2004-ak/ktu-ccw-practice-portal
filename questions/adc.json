@@ -1,0 +1,501 @@
+[
+    {
+        "subject": "ADC",
+        "question": "For AM receivers, the standard IF frequency is",
+        "image": null,
+        "options": ["A) 106kHz", "B) 455kHz", "C) 10.7MHz", "D) 1.07MHz"],
+        "answer": "B) 455kHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "A 1000kHz carrier is simultaneously amplitude modulated by 300Hz and 2kHz audio signal. Which of the following frequencies will not be present in the output?",
+        "image": null,
+        "options": ["A) 998kHz", "B) 999.7kHz", "C) 1000.3kHz", "D) 700kHz"],
+        "answer": "D) 700kHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "A sinusoidal signal of 2kV peak is amplitude modulated to give 20% modulation. The peak value of each side band is",
+        "image": null,
+        "options": ["A) 400V", "B) 200V", "C) 100V", "D) 800V"],
+        "answer": "B) 200V"
+    },
+    {
+        "subject": "ADC",
+        "question": "In frequency modulation broadcast, the maximum deviation is 80 kHz, and the maximum modulating frequency is 20 kHz. In reference to Carson's rule, find the maximum required bandwidth?",
+        "image": null,
+        "options": ["A) 300kHz", "B) 200kHz", "C) 500kHz", "D) 600kHz"],
+        "answer": "B) 200kHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "If the two signals modulate the same carrier with different modulation depths of 0.4 and 0.8. Find the modulation index of the resulting modulation signal?",
+        "image": null,
+        "options": ["A) 0.96", "B) 0.69", "C) 0.89", "D) 0.64"],
+        "answer": "C) 0.89"
+    },
+    {
+        "subject": "ADC",
+        "question": "Without any filtering, a broadcast station at 1800 kHz is heard together with another station at 2800 kHz on a superheterodyne receiver. Find the value of employed IF?",
+        "image": null,
+        "options": ["A) 200Hz", "B) 400Hz", "C) 600Hz", "D) 500Hz"],
+        "answer": "D) 500Hz"
+    },
+    {
+        "subject": "ADC",
+        "question": "In a PCM system each quantization level is encoded into 7 bits. The signal-to-quantization noise ratio is equal to",
+        "image": null,
+        "options": ["A) 25.8dB", "B) 34.6dB", "C) 43.9dB", "D) 49.8dB"],
+        "answer": "C) 43.9dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "Delta modulation suffers from",
+        "image": null,
+        "options": ["A) Slope Overload error", "B) Granular Noise", "C) Both a and b", "D) None of these"],
+        "answer": "C) Both a and b"
+    },
+    {
+        "subject": "ADC",
+        "question": "The bandwidth for transmission in pulse code modulation is ______",
+        "image": null,
+        "options": ["A) Higher than DPCM", "B) Lower than DPCM", "C) Equal to DPCM", "D) None of these"],
+        "answer": "A) Higher than DPCM"
+    },
+    {
+        "subject": "ADC",
+        "question": "For a 10-bit PCM system, the signal-to-quantization noise ratio is 62 dB. If the number of bits is increased by 2, then the signal-to-quantization noise ratio will",
+        "image": null,
+        "options": ["A) Increased by 6dB", "B) Increased by 12dB", "C) Increased by 24dB", "D) Increased by 26dB"],
+        "answer": "B) Increased by 12dB"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "The number of bits per sample in PCM system is increased from 4 to 6, then the improvement in signal to quantization ratio will be",
+        "image": null,
+        "options": ["A) 3dB", "B) 12dB", "C) 2dB", "D) No change"],
+        "answer": "B) 12dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "For QAM, both ______ of a carrier signal may vary",
+        "image": null,
+        "options": ["A) Frequency and Amplitude", "B) Phase and Amplitude", "C) Frequency and Phase", "D) None of the above"],
+        "answer": "B) Phase and Amplitude"
+    },
+    {
+        "subject": "ADC",
+        "question": "Which of the following probability density functions is applicable to discrete Random Variables?",
+        "image": null,
+        "options": ["A) Gaussian Distribution", "B) Poisson Distribution", "C) Rayleigh Distribution", "D) Exponential Distribution"],
+        "answer": "B) Poisson Distribution"
+    },
+    {
+        "subject": "ADC",
+        "question": "A 1000kHz carrier is simultaneously amplitude modulated by 300Hz and 2kHz audio signal. Which of the following frequencies will not be present in the output?",
+        "image": null,
+        "options": ["A) 998kHz", "B) 999.7kHz", "C) 1000.3kHz", "D) 700kHz"],
+        "answer": "D) 700kHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "The bandwidth for transmission in pulse code modulation is ______",
+        "image": null,
+        "options": ["A) Higher than DPCM", "B) Lower than DPCM", "C) Equal to DPCM", "D) None of these"],
+        "answer": "A) Higher than DPCM"
+    },
+    {
+        "subject": "ADC",
+        "question": "A broadcast amplitude modulation radio transmitter radiates 140 kW when the modulation percentage is 75. Find the carrier power?",
+        "image": null,
+        "options": ["A) 120.45kW", "B) 142.26kW", "C) 109.26kW", "D) 172.82kW"],
+        "answer": "C) 109.26kW"
+    },
+    {
+        "subject": "ADC",
+        "question": "The maximum deviation allowed in a frequency modulation system is 120 kHz. If the modulating signal frequency is 20 kHz, find the bandwidth requirement as per Carson's rule?",
+        "image": null,
+        "options": ["A) 120kHz", "B) 240kHz", "C) 280kHz", "D) 320kHz"],
+        "answer": "C) 280kHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "In a communication system, the signal power is 13dB and noise power is -1 dB. The SNR will be.",
+        "image": null,
+        "options": ["A) 14 dB", "B) -13dB", "C) 12 dB", "D) None of these"],
+        "answer": "A) 14 dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "Boosting of higher frequency at the transmitter is done by using",
+        "image": null,
+        "options": ["A) De-emphasis", "B) AGC circuit", "C) Pre-emphasis", "D) Armstrong method"],
+        "answer": "C) Pre-emphasis"
+    },
+    {
+        "subject": "ADC",
+        "question": "In FM modulation, when the modulation index increases, the transmitted power?",
+        "image": null,
+        "options": ["A) Half", "B) Decreased", "C) Doubled", "D) Unchanged"],
+        "answer": "D) Unchanged"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "The capacity of the channel is the",
+        "image": null,
+        "options": ["A) Band width required for information transmission", "B) Maximum rate of information transmission", "C) Number of digits used in coding", "D) Volume of information it can take"],
+        "answer": "B) Maximum rate of information transmission"
+    },
+    {
+        "subject": "ADC",
+        "question": "Eye diagram gives an idea of ......",
+        "image": null,
+        "options": ["A) Modulation scheme", "B) CLOCK jitter", "C) SNR", "D) All the mentioned"],
+        "answer": "D) All the mentioned"
+    },
+    {
+        "subject": "ADC",
+        "question": "In duobinary signalling method, for M-ary transmission, the number of output obtained is",
+        "image": null,
+        "options": ["A) 2M", "B) 2M-1", "C) 2M+1", "D) M-1"],
+        "answer": "B) 2M-1"
+    },
+    {
+        "subject": "ADC",
+        "question": "A speech signal, band-limited to 8 kHz with peak to peak between +20 V to -20 V, and the signal are sampled at Nyquist rate, and the bits 0 and 1 are transmitted using bipolar pulses. Find the minimum bandwidth for distortion-free transmission in KHz?",
+        "image": null,
+        "options": ["A) 64 KHz", "B) 32 KHz", "C) 16 KHz", "D) 64MHz"],
+        "answer": "A) 64 KHz"
+    },
+    {
+        "subject": "ADC",
+        "question": "If noise figure of a receiver is 1.8 at 20 Degree Celsius, find its equivalent noise temperature?",
+        "image": null,
+        "options": ["A) 184.6 K", "B) 474.9 K", "C) 200.3 K", "D) 234.4 K"],
+        "answer": "D) 234.4 K"
+    },
+    {
+        "subject": "ADC",
+        "question": "If the two signals modulate the same carrier with different modulation depths of 0.4 and 0.8. Find the resulting modulation depth?",
+        "image": null,
+        "options": ["A) 0.89", "B) 0.98", "C) 0.80", "D) 1.2"],
+        "answer": "A) 0.89"
+    },
+    {
+        "subject": "ADC",
+        "question": "In FM modulation, when the modulation index increases, the transmitted power?",
+        "image": null,
+        "options": ["A) Half", "B) Decreased", "C) Doubled", "D) Unchanged"],
+        "answer": "D) Unchanged"
+    },
+    {
+        "subject": "ADC",
+        "question": "Which of the given modulator is an indirect way of generating FM?",
+        "image": null,
+        "options": ["A) Inductance Modulator", "B) Armstrong Modulator", "C) Reactance Modulator", "D) Zener diode Modulator"],
+        "answer": "B) Armstrong Modulator"
+    },
+    {
+        "subject": "ADC",
+        "question": "If the number of bits per sample in a PCM system is increased from n to n+1, the improvement in signal to quantization noise ratio will be",
+        "image": null,
+        "options": ["A) 2n dB", "B) 3 dB", "C) 6 dB", "D) 2(n+1) dB"],
+        "answer": "C) 6 dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "A balanced modulator is used in the generation of which of the following signal?",
+        "image": null,
+        "options": ["A) FM Signal", "B) DSB-SC Signal", "C) AM Signal", "D) SSB-SC Signal"],
+        "answer": "B) DSB-SC Signal"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "Quantizing noise occurs in ......",
+        "image": null,
+        "options": ["A) TDM", "B) FDM", "C) PCM", "D) PWM"],
+        "answer": "C) PCM"
+    },
+    {
+        "subject": "ADC",
+        "question": "Companding is used to ......",
+        "image": null,
+        "options": ["A) Overcome aliasing", "B) Overcome degradation of SNR", "C) Overcome quantization error", "D) Increase data rate"],
+        "answer": "B) Overcome degradation of SNR"
+    },
+    {
+        "subject": "ADC",
+        "question": "In a communication system, the signal power is 13dB and noise power is -1 dB. The SNR will be.",
+        "image": null,
+        "options": ["A) 14 dB", "B) -13dB", "C) 12 dB", "D) None of these"],
+        "answer": "A) 14 dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "The spectral density of white noise is......",
+        "image": null,
+        "options": ["A) Exponential", "B) uniform", "C) Poisson", "D) Gaussian"],
+        "answer": "B) uniform"
+    },
+    {
+        "subject": "ADC",
+        "question": "Noise figure for an ideal receiver is ......",
+        "image": null,
+        "options": ["A) 0", "B) 0.1", "C) 1", "D) 10"],
+        "answer": "C) 1"
+    },
+    {
+        "subject": "ADC",
+        "question": "Boosting of higher frequency at the transmitter is done by using",
+        "image": null,
+        "options": ["A) De-emphasis", "B) AGC circuit", "C) Pre-emphasis", "D) Armstrong method"],
+        "answer": "C) Pre-emphasis"
+    },
+    {
+        "subject": "ADC",
+        "question": "Which of the following pulse modulation is analog?",
+        "image": null,
+        "options": ["A) PCM", "B) Differential PCM", "C) PWM", "D) Delta Modulation"],
+        "answer": "C) PWM"
+    },
+    {
+        "subject": "ADC",
+        "question": "The main advantage of super heterodyne is ......",
+        "image": null,
+        "options": ["A) Simple circuit", "B) Better tracking", "C) Improvement in selectivity and sensitivity", "D) Better alignment"],
+        "answer": "C) Improvement in selectivity and sensitivity"
+    },
+    {
+        "subject": "ADC",
+        "question": "The channel capacity is measured in terms of :",
+        "image": null,
+        "options": ["A) Bit per channel", "B) Number of input channels connected", "C) Call per channel", "D) bits"],
+        "answer": "A) Bit per channel"
+    },
+    {
+        "subject": "ADC",
+        "question": "In a PCM system each quantization level is encoded into 7 bits. The signal-to-quantization noise ratio is equal to",
+        "image": null,
+        "options": ["A) 25.8dB", "B) 34.6dB", "C) 43.9dB", "D) 49.8dB"],
+        "answer": "C) 43.9dB"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "Consider sinusoidal AM modulation with maximum and minimum values of the envelope are 3V and 1V respectively. Find the modulation index (μ in %)",
+        "image": null,
+        "options": ["A) 10", "B) 25", "C) 50", "D) 100"],
+        "answer": "C) 50"
+    },
+    {
+        "subject": "ADC",
+        "question": "A super heterodyne radio receiver with an intermediate frequency of 455 KHz, the local oscillator tuned to 1200 KHz. The associated image frequency is ---KHz.",
+        "image": null,
+        "options": ["A) 765", "B) 1655", "C) 2100", "D) 900"],
+        "answer": "B) 1655"
+    },
+    {
+        "subject": "ADC",
+        "question": "FM Modulation pre-emphasis are done for",
+        "image": null,
+        "options": ["A) High frequency components", "B) Low frequency components", "C) Middle frequency components", "D) Both a and b"],
+        "answer": "A) High frequency components"
+    },
+    {
+        "subject": "ADC",
+        "question": "The number of bits per sample in PCM system is increased from 5 to 6, then the improvement in signal to quantization ratio will be",
+        "image": null,
+        "options": ["A) 3dB", "B) 6dB", "C) 2dB", "D) No change"],
+        "answer": "B) 6dB"
+    },
+    {
+        "subject": "ADC",
+        "question": "In delta modulation, the slope overload distortion can be reduced by",
+        "image": null,
+        "options": ["A) Decreasing the step size", "B) Decreasing the granular noise", "C) Decreasing the sampling noise", "D) Increasing the step size"],
+        "answer": "D) Increasing the step size"
+    },
+    {
+        "subject": "ADC",
+        "question": "In digital communication Pulse shaping is done for",
+        "image": null,
+        "options": ["A) To control Inter Symbol Interference", "B) By limiting the bandwidth of transmission", "C) After line coding and modulation of signal", "D) All of the above"],
+        "answer": "D) All of the above"
+    },
+    {
+        "subject": "ADC",
+        "question": "Zero forced equalizers are used for",
+        "image": null,
+        "options": ["A) Reducing ISI to zero", "B) Reduce the Quantization error", "C) Reduce the bandwidth", "D) All of the above"],
+        "answer": "A) Reducing ISI to zero"
+    },
+    {
+        "subject": "ADC",
+        "question": "Characteristics of Matched filter are",
+        "image": null,
+        "options": ["A) Matched filter is used to maximize Signal to noise ratio even for non Gaussian noise", "B) It gives the output as signal energy in the absence of noise", "C) They are used for signal detection", "D) All of the above"],
+        "answer": "D) All of the above"
+    },
+    {
+        "subject": "ADC",
+        "question": "In QAM, both ______ of a carrier frequency vary",
+        "image": null,
+        "options": ["A) Frequency and Amplitude", "B) Phase and Amplitude", "C) Frequency and Phase", "D) None of the above"],
+        "answer": "B) Phase and Amplitude"
+    },
+    {
+        "subject": "ADC",
+        "question": "The detector that minimizes the error probability is called as",
+        "image": null,
+        "options": ["A) Maximum likelihood detector", "B) Minimum likelihood detector", "C) Maximum & Minimum likelihood detectors", "D) Synchronous detector"],
+        "answer": "A) Maximum likelihood detector"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "The value of a resistor creating thermal noise is doubled. The noise power generator is therefore....",
+        "image": null,
+        "options": ["A) Halved", "B) Quadrupled", "C) Doubled", "D) Unchanged"],
+        "answer": "D) Unchanged"
+    },
+    {
+        "subject": "ADC",
+        "question": "Which of the following is the most reliable measurement for comparing amplifier noise characteristics?",
+        "image": null,
+        "options": ["A) Signal-to-Noise ratio", "B) Noise factor", "C) Shot noise", "D) Thermal noise agitation"],
+        "answer": "B) Noise factor"
+    },
+    {
+        "subject": "ADC",
+        "question": "If E denotes the expectation, the variance of a random variable X is denoted as?",
+        "image": null,
+        "options": ["A) (E(X))²", "B) E(X²) - (E(X))²", "C) E(X²)", "D) 2E(X)"],
+        "answer": "B) E(X²) - (E(X))²"
+    },
+    {
+        "subject": "ADC",
+        "question": "Which of the following mentioned standard Probability density functions is applicable to discrete Random Variables?",
+        "image": null,
+        "options": ["A) Gaussian Distribution", "B) Poisson Distribution", "C) Rayleigh Distribution", "D) Exponential Distribution"],
+        "answer": "B) Poisson Distribution"
+    },
+    {
+        "subject": "ADC",
+        "question": "Non uniform quantizer ______ distortion.",
+        "image": null,
+        "options": ["A) Increases", "B) Decreases", "C) Does not affect", "D) None of the mentioned"],
+        "answer": "B) Decreases"
+    },
+    {
+        "subject": "ADC",
+        "question": "The spectral density of white noise is....",
+        "image": null,
+        "options": ["A) Exponential", "B) Uniform", "C) Poisson", "D) Gaussian"],
+        "answer": "B) Uniform"
+    },
+    {
+        "subject": "ADC",
+        "question": "The term heterodyning refers to......",
+        "image": null,
+        "options": ["A) Frequency conversion", "B) Frequency mixing", "C) Frequency conversion and mixing", "D) None of the mentioned"],
+        "answer": "C) Frequency conversion and mixing"
+    },
+    {
+        "subject": "ADC",
+        "question": "Roll off factor is the fraction of...",
+        "image": null,
+        "options": ["A) Excess bandwidth and absolute bandwidth", "B) Excess bandwidth and minimum Nyquist bandwidth", "C) Absolute bandwidth and minimum Nyquist bandwidth", "D) None of the mentioned"],
+        "answer": "B) Excess bandwidth and minimum Nyquist bandwidth"
+    },
+    {
+        "subject": "ADC",
+        "question": "The detector that minimizes the error probability is called as....",
+        "image": null,
+        "options": ["A) Maximum likelihood detector", "B) Minimum likelihood detector", "C) Maximum & Minimum likelihood detector", "D) None of the mentioned"],
+        "answer": "A) Maximum likelihood detector"
+    },
+    {
+        "subject": "ADC",
+        "question": "Wavelength and antenna size are related as…",
+        "image": null,
+        "options": ["A) λ/2", "B) λ/4", "C) 2λ", "D) 4λ"],
+        "answer": "B) λ/4"
+    }
+    ,
+{
+    "subject": "ADC",
+    "question": "Which of the following is done to convert a continuous time signal into discrete time signal?",
+    "image": null,
+    "options": ["A) Modulation", "B) Sampling", "C) Integration", "D) None of these"],
+    "answer": "B) Sampling"
+}
+,
+
+    {
+        "subject": "ADC",
+        "question": "A cordless telephone using separate frequencies for transmission in base and portable units is known as",
+        "image": null,
+        "options": ["A) Duplex arrangement", "B) Half duplex arrangement", "C) either a or b", "D) neither a or b"],
+        "answer": "A) Duplex arrangement"
+    },
+    {
+        "subject": "ADC",
+        "question": "VSB modulation is preferred in TV because",
+        "image": null,
+        "options": ["A) It reduces the bandwidth requirement to half", "B) it avoids phase distortion at low frequencies", "C) it results in better reception", "D) none of the above"],
+        "answer": "A) It reduces the bandwidth requirement to half"
+    },
+    {
+        "subject": "ADC",
+        "question": "In FM signal with a modulation index m_r is passed through a frequency tripler. The wave in the output of the tripler will have a modulation index of",
+        "image": null,
+        "options": ["A) m_r", "B) 3m_r", "C) m/3", "D) m/9"],
+        "answer": "B) 3m_r"
+    },
+    {
+        "subject": "ADC",
+        "question": "A 400 W carrier is amplitude modulated with m = 0.75. The total power in AM is",
+        "image": null,
+        "options": ["A) 400W", "B) 512W", "C) 588W", "D) 650W"],
+        "answer": "B) 512W"
+    },
+    {
+        "subject": "ADC",
+        "question": "Non-coherently detection is not possible for",
+        "image": null,
+        "options": ["A) PSK", "B) ASK", "C) FSK", "D) Both (a) and (c)"],
+        "answer": "A) PSK"
+    },
+    {
+        "subject": "ADC",
+        "question": "The autocorrelation function of the white noise is",
+        "image": null,
+        "options": ["A) Impulse function", "B) Step function", "C) Constant", "D) None of the above"],
+        "answer": "C) Constant"
+    },
+    {
+        "subject": "ADC",
+        "question": "DPCM encodes the PCM values based on",
+        "image": null,
+        "options": ["A) Quantization", "B) Difference between the current and predicted value", "C) Interval between levels", "D) None of the mentioned"],
+        "answer": "B) Difference between the current and predicted value"
+    },
+    {
+        "subject": "ADC",
+        "question": "The detector that minimizes the error probability is called as",
+        "image": null,
+        "options": ["A) Maximum likelihood detector", "B) Minimum likelihood detector", "C) Maximum & Minimum likelihood detector", "D) None of the mentioned"],
+        "answer": "A) Maximum likelihood detector"
+    }
+    ,
+    {
+        "subject": "ADC",
+        "question": "The positive envelope of a single-tone amplitude modulated wave has a maximum value of 3 V and a minimum of 1V. The modulation index is .....",
+        "image": null,
+        "options": ["A) 1/4", "B) 1/3", "C) 1/2", "D) 2/3"],
+        "answer": "C) 1/2"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "subject": "DSP",
+        "question": "The DFT of two sample sequence x[n] = {A, B} is X[k] =",
+        "image": null,
+        "options": ["A) A+iB", "B) A-iB", "C) A+B, A-B", "D) 0"],
+        "answer": "C) A+B, A-B"
+    },
+    {
+        "subject": "DSP",
+        "question": "The computation of 32-point DFT by Radix-2 DIT-FFT involves ...... stages of computation.",
+        "image": null,
+        "options": ["A) 6", "B) 5", "C) 3", "D) 2^5"],
+        "answer": "B) 5"
+    },
+    {
+        "subject": "DSP",
+        "question": "DFT perform filtering operation in ......",
+        "image": null,
+        "options": ["A) Time domain", "B) Frequency domain", "C) Both Time & Frequency domain", "D) None of these"],
+        "answer": "B) Frequency domain"
+    },
+    {
+        "subject": "DSP",
+        "question": "FFT is a faster method of computation, because it exploits the ...... property of the phase factor W_N",
+        "image": null,
+        "options": ["A) linearity", "B) time reversal", "C) Time invariant", "D) periodicity"],
+        "answer": "D) periodicity"
+    },
+    {
+        "subject": "DSP",
+        "question": "The tolerance in the pass band and stop band are called......",
+        "image": null,
+        "options": ["A) Bandwidth", "B) Ripples", "C) Beam width", "D) None of these"],
+        "answer": "B) Ripples"
+    },
+    {
+        "subject": "DSP",
+        "question": "In linear phase filter when the impulse is symmetrical and N is even, the magnitude function is ......",
+        "image": null,
+        "options": ["A) Anti-symmetric", "B) symmetric", "C) constant", "D) 0"],
+        "answer": "A) Anti-symmetric"
+    },
+    {
+        "subject": "DSP",
+        "question": "In FIR filter, ...... is a linear function of ω",
+        "image": null,
+        "options": ["A) Amplitude", "B) Phase", "C) Frequency", "D) None of these"],
+        "answer": "B) Phase"
+    },
+    {
+        "subject": "DSP",
+        "question": "In Bilinear Transformation, the ...... poles of S-plane are mapped in to the interior of the unit circle in Z-plane",
+        "image": null,
+        "options": ["A) left half", "B) right half", "C) centre", "D) entire"],
+        "answer": "A) left half"
+    },
+    {
+        "subject": "DSP",
+        "question": "For a b-bit number, the quantization step size is q=......",
+        "image": null,
+        "options": ["A) 2^{-b}", "B) 2^{b}", "C) b+1", "D) 2^{-b} + 1"],
+        "answer": "A) 2^{-b}"
+    },
+    {
+        "subject": "DSP",
+        "question": "The finite word length effects are due to",
+        "image": null,
+        "options": ["A) quantization of input", "B) quantization of products", "C) quantization of coefficients", "D) all of the above"],
+        "answer": "D) all of the above"
+    }
+    ,
+    
+    {
+        "subject": "DSP",
+        "question": "Computational complexity refers to the number of ______",
+        "image": null,
+        "options": ["A) Additions", "B) Arithmetic operations", "C) Multiplications", "D) None of these"],
+        "answer": "B) Arithmetic operations"
+    },
+    {
+        "subject": "DSP",
+        "question": "The resolution of N-bit system DAC converter is",
+        "image": null,
+        "options": ["A) 1/2^N", "B) 1/(2^N - 1)", "C) (2^N - 1)", "D) 2^N"],
+        "answer": "B) 1/(2^N - 1)"
+    },
+    {
+        "subject": "DSP",
+        "question": "The process of reducing the sampling rate by a factor D is called",
+        "image": null,
+        "options": ["A) Decimation", "B) Sampling rate conversion", "C) Interpolation", "D) None of these"],
+        "answer": "A) Decimation"
+    },
+    {
+        "subject": "DSP",
+        "question": "The DFT of two sample sequence x[n] = {A, B} is X[k] =",
+        "image": null,
+        "options": ["A) A + iB", "B) A - iB", "C) A+B, A-B", "D) 0"],
+        "answer": "C) A+B, A-B"
+    },
+    {
+        "subject": "DSP",
+        "question": "The impulse response of a LTI system is h(n) = {1, 1, 1}. What is the response of the signal to the input x(n) = {1, 2, 3}?",
+        "image": null,
+        "options": ["A) {1, 3, 6, 3, 1}", "B) {1, 2, 3, 2, 1}", "C) {1, 3, 6, 5, 3}", "D) {1, 1, 1, 0, 0}"],
+        "answer": "C) {1, 3, 6, 5, 3}"
+    },
+    {
+        "subject": "DSP",
+        "question": "Find the circular convolution between two sequences x(n) = {2, 1, 2, 1} and y(n) = {1, 2, 3, 4}",
+        "image": null,
+        "options": ["A) {2, 5, 10, 16, 10, 11, 2}", "B) {2, 5, 10, 16, 10}", "C) {14, 14, 16, 16}", "D) {14, 16, 14, 16}"],
+        "answer": "D) {14, 16, 14, 16}"
+    },
+    {
+        "subject": "DSP",
+        "question": "Find x(n)*δ(n-n₀)",
+        "image": null,
+        "options": ["A) x(n+n₀)", "B) x(n-n₀)", "C) x(-n-n₀)", "D) x(-n+n₀)"],
+        "answer": "B) x(n-n₀)"
+    },
+    {
+        "subject": "DSP",
+        "question": "Given x[n] = {1, 2, 0, 3, -2, 4, 7, 5}, calculate X[4]?",
+        "image": null,
+        "options": ["A) 20", "B) -8", "C) -20", "D) 4"],
+        "answer": "B) -8"
+    },
+    {
+        "subject": "DSP",
+        "question": "The width of the main lobe in rectangular window spectrum is .........",
+        "image": null,
+        "options": ["A) 4π/N", "B) 16π/N", "C) 8π/N", "D) 2π/N"],
+        "answer": "A) 4π/N"
+    },
+    {
+        "subject": "DSP",
+        "question": "If a discrete time signal x(n) of length L is convolved with a discrete time signal y(n) of length N then the length of output signal is",
+        "image": null,
+        "options": ["A) L + N", "B) L + N - 1", "C) L * N", "D) (L * N) - 1"],
+        "answer": "B) L + N - 1"
+    }
+    ,
+
+    {
+        "subject": "DSP",
+        "question": "If DFT {x[n]} = X[k], then DFT {x[n+m]ₙ}",
+        "image": null,
+        "options": ["A) X[k]e^{-j2πkm/N}", "B) X[k]e^{-j2πk/N}", "C) X[k]e^{j2πkm/N}", "D) X[k]"],
+        "answer": "C) X[k]e^{j2πkm/N}"
+    },
+    {
+        "subject": "DSP",
+        "question": "Given x[n] = {1, 2, 0, 3, -2, 4, 7, 5}, calculate X[4]?",
+        "image": null,
+        "options": ["A) 20", "B) -8", "C) -20", "D) 4"],
+        "answer": "B) -8"
+    },
+    {
+        "subject": "DSP",
+        "question": "The frequency response of a digital filter is periodic in the range ......",
+        "image": null,
+        "options": ["A) 0 < ω < 2π", "B) -π < ω < π", "C) 0 < ω < π", "D) 0 ≤ ω ≤ 2π or -π ≤ ω ≤ π"],
+        "answer": "D) 0 ≤ ω ≤ 2π or -π ≤ ω ≤ π"
+    },
+    {
+        "subject": "DSP",
+        "question": "In FIR filters the Gibbs oscillations are due to ......",
+        "image": null,
+        "options": ["A) linear magnitude characteristics", "B) Non linear phase characteristics", "C) abrupt truncation of the FIR filter coefficient sequence.", "D) None of the mentioned"],
+        "answer": "C) abrupt truncation of the FIR filter coefficient sequence."
+    },
+    {
+        "subject": "DSP",
+        "question": "The width of the main lobe in rectangular window spectrum is ......",
+        "image": null,
+        "options": ["A) 4π/N", "B) 16π/N", "C) 8π/N", "D) 2π/N"],
+        "answer": "A) 4π/N"
+    },
+    {
+        "subject": "DSP",
+        "question": "The zeros of the Butterworth filter exist at ......",
+        "image": null,
+        "options": ["A) Left half of s-plane", "B) Origin", "C) Infinity", "D) Right half of s-plane"],
+        "answer": "C) Infinity"
+    },
+    {
+        "subject": "DSP",
+        "question": "The relation between analog and digital frequency is nonlinear in case of ......",
+        "image": null,
+        "options": ["A) Impulse invariant", "B) Bilinear transformation", "C) Frequency sampling", "D) All the mentioned"],
+        "answer": "B) Bilinear transformation"
+    },
+    {
+        "subject": "DSP",
+        "question": "Which of the following is true in fixed point binary representation?",
+        "image": null,
+        "options": ["A) Only positive number can be represented", "B) Integer cannot be represented", "C) The position of binary point is fixed", "D) None of the mentioned"],
+        "answer": "C) The position of binary point is fixed"
+    },
+    {
+        "subject": "DSP",
+        "question": "The architecture that employs instruction level parallelism is.............",
+        "image": null,
+        "options": ["A) Von Neumann architecture", "B) Harvard architecture", "C) Modified architecture", "D) VLIW architecture"],
+        "answer": "D) VLIW architecture"
+    },
+    {
+        "subject": "DSP",
+        "question": "If x[n] and y[n] are input and output of a decimator with sampling rate conversion factor A, then,",
+        "image": null,
+        "options": ["A) y[n] = x[n-A]", "B) y[n] = x[n+A]", "C) y[n] = x[n/A]", "D) y[n] = x[nA]"],
+        "answer": "D) y[n] = x[nA]"
+    }
+    ,
+    {
+        "subject": "DSP",
+        "question": "DFT performs filtering operation in",
+        "image": null,
+        "options": ["A) Time domain", "B) Frequency domain", "C) Both time and frequency domain", "D) None of these"],
+        "answer": "B) Frequency domain"
+    },
+    {
+        "subject": "DSP",
+        "question": "DFT of impulse signal is",
+        "image": null,
+        "options": ["A) 2π", "B) π", "C) 1", "D) 0"],
+        "answer": "C) 1"
+    },
+    {
+        "subject": "DSP",
+        "question": "Let x[n] = {0, 1, A, 2, 3, 4}. If X[0]=10, A=?",
+        "image": null,
+        "options": ["A) A=0", "B) A=1", "C) A=10", "D) A=3"],
+        "answer": "A) A=0"
+    },
+    {
+        "subject": "DSP",
+        "question": "In impulse invariant transformation, relationship between Ω and ω is",
+        "image": null,
+        "options": ["A) Ω = ωT", "B) Ω = ω/T", "C) ω = Ω/T", "D) None of these"],
+        "answer": "B) Ω = ω/T"
+    },
+    {
+        "subject": "DSP",
+        "question": "The frequency response of a digital filter is",
+        "image": null,
+        "options": ["A) periodic", "B) Non periodic", "C) May be periodic or non-periodic", "D) None of these"],
+        "answer": "A) periodic"
+    },
+    {
+        "subject": "DSP",
+        "question": "Down sampling by a factor of D skips",
+        "image": null,
+        "options": ["A) D samples", "B) (D-1) samples", "C) No samples", "D) (D+1) samples"],
+        "answer": "B) (D-1) samples"
+    },
+    {
+        "subject": "DSP",
+        "question": "The finite word length effects are due to",
+        "image": null,
+        "options": ["A) Quantization of input", "B) Quantization of product", "C) Quantization of coefficient", "D) All of the mentioned"],
+        "answer": "D) All of the mentioned"
+    },
+    {
+        "subject": "DSP",
+        "question": "The steady state noise power due to input quantization is σ²ₑ =",
+        "image": null,
+        "options": ["A) 2⁻²ᵇ/12", "B) 2⁻²ᵇ/6", "C) 2⁻²ᵇ", "D) 2⁻ᵇ"],
+        "answer": "A) 2⁻²ᵇ/12"
+    },
+    {
+        "subject": "DSP",
+        "question": "For rectangular window the main lobe width is equal to",
+        "image": null,
+        "options": ["A) 2π/N", "B) 4π/N", "C) 8π/N", "D) 12π/N"],
+        "answer": "B) 4π/N"
+    },
+    {
+        "subject": "DSP",
+        "question": "The number of complex multiplication involved in the direct computation of 8-point DFT is",
+        "image": null,
+        "options": ["A) 8", "B) 64", "C) 16", "D) 56"],
+        "answer": "B) 64"
+    }
+    ,
+    {
+        "subject": "DSP",
+        "question": "The integral of a unit impulse is",
+        "image": null,
+        "options": ["A) Unit step function", "B) A ramp function of slope 1", "C) Unit pulse function", "D) Train of Impulse"],
+        "answer": "A) Unit step function"
+    },
+    {
+        "subject": "DSP",
+        "question": "Evaluate the integral ∫_{-∞}^{∞} (t² + 2)δ(t - 3)dt",
+        "image": null,
+        "options": ["A) Infinity", "B) 2", "C) 5", "D) 11"],
+        "answer": "D) 11"
+    },
+    {
+        "subject": "DSP",
+        "question": "Find the initial value of function f(t), if its Laplace transform is (25s+10)/(5s²+10s)",
+        "image": null,
+        "options": ["A) 0", "B) 25", "C) 5", "D) 2.5"],
+        "answer": "C) 5"
+    },
+    {
+        "subject": "DSP",
+        "question": "If X(k) is the N-point DFT of a sequence x(n), then what is the DFT of x*(n)?",
+        "image": null,
+        "options": ["A) X*(k)", "B) X*(N-k)", "C) X(N-k)", "D) X(k)"],
+        "answer": "B) X*(N-k)"
+    },
+    {
+        "subject": "DSP",
+        "question": "The number of complex addition in direct DFT are",
+        "image": null,
+        "options": ["A) N(N-1)", "B) N²", "C) Nlog₂N", "D) (N/2)log₂N"],
+        "answer": "A) N(N-1)"
+    },
+    {
+        "subject": "DSP",
+        "question": "If a discrete time signal x(n) of length L is convolved with a discrete time signal y(n) of length N then the length of output signal is",
+        "image": null,
+        "options": ["A) L + N", "B) L + N - 1", "C) L * N", "D) (L * N) - 1"],
+        "answer": "B) L + N - 1"
+    },
+    {
+        "subject": "DSP",
+        "question": "Find the circular convolution between two sequences x(n) = {2,1,2,1} and y(n) = {1,2,3,4}",
+        "image": null,
+        "options": ["A) {2,5,10,16,10,11,2}", "B) {2,5,10,16,10}", "C) {14,14,16,16}", "D) {14,16,14,16}"],
+        "answer": "D) {14,16,14,16}"
+    },
+    {
+        "subject": "DSP",
+        "question": "Consider impulse response of FIR filter is h(n). Find the condition for FIR filter become linear phase",
+        "image": null,
+        "options": ["A) h(n) = ± h(M-1-n)", "B) h(n) = h(M-1-n)", "C) |h(n)| = |h(M-1-n)|", "D) None of the above"],
+        "answer": "A) h(n) = ± h(M-1-n)"
+    },
+    {
+        "subject": "DSP",
+        "question": "Peak side lobe in dB of a rectangular window is",
+        "image": null,
+        "options": ["A) -13dB", "B) -26dB", "C) -32dB", "D) -3dB"],
+        "answer": "C) -32dB"
+    },
+    {
+        "subject": "DSP",
+        "question": "Which of the following method is used to implement IIR filter",
+        "image": null,
+        "options": ["A) Rectangular Window", "B) Hamming Window", "C) Bilinear Transform", "D) Frequency sampling method"],
+        "answer": "C) Bilinear Transform"
+    }
+    ,
+    {
+        "subject": "DSP",
+        "question": "Which of the following is true regarding the number of computations requires to compute an N-point DFT?",
+        "image": null,
+        "options": ["A) N² complex multiplications and N(N-1) complex additions", "B) N² complex additions and N(N-1) complex multiplications", "C) N² complex multiplications and N(N+1) complex additions", "D) N² complex additions and N(N+1) complex multiplications"],
+        "answer": "A) N² complex multiplications and N(N-1) complex additions"
+    },
+    {
+        "subject": "DSP",
+        "question": "If W₄¹⁰⁰ = Wₓ²⁰⁰, then what is the value of x?",
+        "image": null,
+        "options": ["A) 2", "B) 4", "C) 8", "D) 16"],
+        "answer": "C) 8"
+    },
+    {
+        "subject": "DSP",
+        "question": "Which of the following is true in case of Overlap add method?",
+        "image": null,
+        "options": ["A) M zeros are appended at last of each data block", "B) M zeros are appended at first of each data block", "C) M-1 zeros are appended at last of each data block", "D) M-1 zeros are appended at first of each data block"],
+        "answer": "C) M-1 zeros are appended at last of each data block"
+    },
+    {
+        "subject": "DSP",
+        "question": "What is the highest frequency that is contained in the sampled signal?",
+        "image": null,
+        "options": ["A) 2Fs", "B) Fs/2", "C) Fs", "D) None of the mentioned"],
+        "answer": "B) Fs/2"
+    },
+    {
+        "subject": "DSP",
+        "question": "If {x(n)} is the signal to be analyzed, limiting the duration of the sequence to L samples, in the interval 0 ≤ n ≤ L-1, is equivalent to multiplying {x(n)} by?",
+        "image": null,
+        "options": ["A) Kaiser window", "B) Hamming window", "C) Hanning window", "D) Rectangular window"],
+        "answer": "D) Rectangular window"
+    },
+    {
+        "subject": "DSP",
+        "question": "Computational complexity refers to the number of ______",
+        "image": null,
+        "options": ["A) Additions", "B) Arithmetic operations", "C) Multiplications", "D) None of the mentioned"],
+        "answer": "B) Arithmetic operations"
+    },
+    {
+        "subject": "DSP",
+        "question": "Which of the following is a method for implementing an FIR system?",
+        "image": null,
+        "options": ["A) Direct form", "B) Cascade form", "C) Lattice structure", "D) All of the mentioned"],
+        "answer": "D) All of the mentioned"
+    },
+    {
+        "subject": "DSP",
+        "question": "What is the process of reducing the sampling rate by a factor D?",
+        "image": null,
+        "options": ["A) Sampling rate conversion", "B) Interpolation", "C) Decimation", "D) None of the above"],
+        "answer": "C) Decimation"
+    },
+    {
+        "subject": "DSP",
+        "question": "In recursive systems, which of the following is caused because of the nonlinearities due to the finite-precision arithmetic operations?",
+        "image": null,
+        "options": ["A) Periodic oscillations in the input", "B) Non-Periodic oscillations in the input", "C) Non-Periodic oscillations in the output", "D) Periodic oscillations in the output"],
+        "answer": "D) Periodic oscillations in the output"
+    },
+    {
+        "subject": "DSP",
+        "question": "What is the expansion of DPCM?",
+        "image": null,
+        "options": ["A) Differential Pulse Code Modulation", "B) Different Pulse Code Modulation", "C) Differential Plus Code Modulation", "D) None of the mentioned"],
+        "answer": "A) Differential Pulse Code Modulation"
+    }
+    ,
+    {
+    "subject": "DSP",
+    "question": "If the unit step response of a network is (1 - exp(-at))u(t), then its impulse response is",
+    "image": null,
+    "options": ["A) a exp(-at)", "B) a exp(-at) u(t)", "C) (1/a) exp(-at) u(t)", "D) (1-a) exp(-at)"],
+    "answer": "B) a exp(-at) u(t)"
+},
+ {
+        "subject": "DSP",
+        "question": "Fourier transform of a deterministic signal g(t) is G(f). Then the Fourier transform of g(t-2) is",
+        "image": null,
+        "options": ["A) G(f)exp(j4πf)", "B) G(f)exp(-j4πf)", "C) G(2f)", "D) G(f-2)"],
+        "answer": "B) G(f)exp(-j4πf)"
+    }
+    ,
+{
+    "subject": "DSP",
+    "question": "The even part of a signal x(t) is?",
+    "image": null,
+    "options": ["A) x(t)+x(-t)", "B) x(t)-x(-t)", "C) (1/2)*(x(t)+x(-t))", "D) (1/2)*(x(t)-x(-t))"],
+    "answer": "C) (1/2)*(x(t)+x(-t))"
+}
+,
+    {
+        "subject": "DSP",
+        "question": "All energy signals will have an average power of ______",
+        "image": null,
+        "options": ["A) Zero", "B) Infinity", "C) positive", "D) Cannot be calculated"],
+        "answer": "A) Zero"
+    },
+    {
+        "subject": "DSP",
+        "question": "x(n) * δ(n-k) = ......",
+        "image": null,
+        "options": ["A) x(n)", "B) x(k)", "C) x(k) * δ(n-k)", "D) x(k) * δ(k)"],
+        "answer": "C) x(k) * δ(n-k)"
+    },
+    {
+        "subject": "DSP",
+        "question": "Time scaling operation is also known as ______",
+        "image": null,
+        "options": ["A) Downsampling", "B) Upsampling", "C) Sampling", "D) None of these"],
+        "answer": "A) Downsampling"
+    },
+    {
+        "subject": "DSP",
+        "question": "Which of the following relations are true if x(n) is real?",
+        "image": null,
+        "options": ["A) X(ω) = X(-ω)", "B) X(ω) = -X(-ω)", "C) X*(ω) = X(ω)", "D) X*(ω) = X(-ω)"],
+        "answer": "D) X*(ω) = X(-ω)"
+    },
+    {
+        "subject": "DSP",
+        "question": "If X(ω) is the Fourier transform of the signal x(n), then what is the Fourier transform of the signal x(n-k)?",
+        "image": null,
+        "options": ["A) e^{jωk} · X(-ω)", "B) e^{jωk} · X(ω)", "C) e^{-jωk} · X(-ω)", "D) e^{-jωk} · X(ω)"],
+        "answer": "D) e^{-jωk} · X(ω)"
+    }
+]

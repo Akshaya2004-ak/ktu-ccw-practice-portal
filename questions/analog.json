@@ -1,0 +1,493 @@
+[
+    {
+        "subject": "Analog Circuits",
+        "question": "Which of the following power amplifiers has highest efficiency",
+        "image": null,
+        "options": ["A) Class A", "B) Class B", "C) Class AB", "D) Class C"],
+        "answer": "D) Class C"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A bypass capacitor provides",
+        "image": null,
+        "options": ["A) DC ground", "B) AC ground", "C) Both DC and AC ground", "D) None of these"],
+        "answer": "B) AC ground"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In an oscillator the total phase shift around the loop must be",
+        "image": null,
+        "options": ["A) 180°", "B) 270°", "C) 0°", "D) 90°"],
+        "answer": "C) 0°"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A bridge rectifier circuit using ideal diode has an input voltage of 20sinωt. The average and rms value of output voltage are",
+        "image": null,
+        "options": ["A) 40/π V and 20/√2 V", "B) 20/π V and 20/√2 V", "C) 40/π V and 10 V", "D) 20/π V and 10 V"],
+        "answer": "A) 40/π V and 20/√2 V"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "An ideal power supply has",
+        "image": null,
+        "options": ["A) Zero internal resistance", "B) Infinite internal resistance", "C) High output resistance", "D) Both b and c"],
+        "answer": "A) Zero internal resistance"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A full wave rectifier circuit using centre tapped transformer, input frequency is 50Hz. The frequency of the output is",
+        "image": null,
+        "options": ["A) 100Hz", "B) 50 Hz", "C) 25Hz", "D) 200Hz"],
+        "answer": "A) 100Hz"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A clipper",
+        "image": null,
+        "options": ["A) Adds a dc component to the input signal", "B) Removes signal voltages above or below a specified value", "C) Both a and b", "D) Either a or b"],
+        "answer": "B) Removes signal voltages above or below a specified value"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Which circuit is called emitter follower?",
+        "image": null,
+        "options": ["A) Common Emitter", "B) Common Collector", "C) Common Base", "D) Both a and b"],
+        "answer": "B) Common Collector"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "For a BJT, α and β are related as",
+        "image": null,
+        "options": ["A) α = β/(1-β)", "B) β = 1/(1+α)", "C) β = α/(1+α)", "D) β = α/(1-α)"],
+        "answer": "D) β = α/(1-α)"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "N-channel FETs are superior to p-channel FETs because",
+        "image": null,
+        "options": ["A) Mobility of electrons is smaller than that of holes", "B) Mobility of electrons is greater than that of holes", "C) They consume less power", "D) They have high switching time"],
+        "answer": "B) Mobility of electrons is greater than that of holes"
+    }
+    ,
+    {
+        "subject": "Analog Circuits",
+        "question": "The theoretical maximum efficiency of a half wave diode rectifier is",
+        "image": null,
+        "options": ["A) 40.6%", "B) 50%", "C) 81.2%", "D) 78%"],
+        "answer": "A) 40.6%"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Which circuit is called emitter follower?",
+        "image": null,
+        "options": ["A) Common Emitter", "B) Common Collector", "C) Common Base", "D) Both a and b"],
+        "answer": "B) Common Collector"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Crossover distortion is the characteristics of .........output stage",
+        "image": null,
+        "options": ["A) Class A", "B) Class B", "C) Class AB", "D) None of the above"],
+        "answer": "B) Class B"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "For a BJT, α and β are related as",
+        "image": null,
+        "options": ["A) α = β/(1-β)", "B) β = 1/(1+α)", "C) β = α/(1-α)", "D) β = α/(1+α)"],
+        "answer": "C) β = α/(1-α)"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The unit of voltage gain........",
+        "image": null,
+        "options": ["A) dB", "B) Volt", "C) Ampere", "D) No unit"],
+        "answer": "D) No unit"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "What is the purpose of a coupling capacitor in an amplifier circuit?",
+        "image": null,
+        "options": ["A) To filter out high-frequency noise", "B) To block DC and allow AC signals to pass", "C) To provide power supply to the amplifier", "D) To increase the gain of the amplifier"],
+        "answer": "B) To block DC and allow AC signals to pass"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A bridge rectifier circuit using ideal diode has an input voltage of 20sinωt. The average and rms value of output voltage are",
+        "image": null,
+        "options": ["A) 40/π V and 20/√2 V", "B) 20/π V and 20/√2 V", "C) 40/π V and 10 V", "D) 20/π V and 10 V"],
+        "answer": "A) 40/π V and 20/√2 V"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In an oscillator the total phase shift around the loop must be",
+        "image": null,
+        "options": ["A) 180°", "B) 270°", "C) 0°", "D) 90°"],
+        "answer": "C) 0°"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The unit of q/KT is",
+        "image": null,
+        "options": ["A) V", "B) V⁻¹", "C) J", "D) J/K"],
+        "answer": "B) V⁻¹"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If a three stage amplifier has individual stage gains of 12dB, 16dB and 8dB; then the total gain in dB is",
+        "image": null,
+        "options": ["A) 15dB", "B) 12dB", "C) 36dB", "D) 8dB"],
+        "answer": "C) 36dB"
+    }
+    ,
+    {
+        "subject": "Analog Circuits",
+        "question": "Transformer utilization factor of half wave rectifier is ......",
+        "image": null,
+        "options": ["A) 0.287", "B) 0.693", "C) 0.812", "D) 0.480"],
+        "answer": "A) 0.287"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "FET is a ...... device.",
+        "image": null,
+        "options": ["A) Unipolar", "B) Bipolar", "C) Tripolar", "D) None of the mentioned"],
+        "answer": "A) Unipolar"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The voltage gain of amplifier stage is lowest in ......",
+        "image": null,
+        "options": ["A) Common Emitter", "B) Common Base", "C) Common Collector", "D) Same in all configuration"],
+        "answer": "C) Common Collector"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Transistor is in saturation when ......",
+        "image": null,
+        "options": ["A) I_B = I_C", "B) I_B > I_C/β_dc", "C) I_B = 0", "D) I_B < I_C/β_dc"],
+        "answer": "B) I_B > I_C/β_dc"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "When voltage gain A_V is greater than one, then the voltage gain in dB is ......",
+        "image": null,
+        "options": ["A) Negative", "B) Positive", "C) Zero", "D) None of the mentioned"],
+        "answer": "B) Positive"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Crossover distortion is the characteristics of ...... output stage",
+        "image": null,
+        "options": ["A) Class A", "B) Class B", "C) Class AB", "D) None of the mentioned"],
+        "answer": "B) Class B"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A cascaded amplifier has the advantages of ......",
+        "image": null,
+        "options": ["A) Low input capacitance", "B) Low input impedance", "C) High trans conductance", "D) Large voltage gain"],
+        "answer": "D) Large voltage gain"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Negative feedback amplifier is a ......",
+        "image": null,
+        "options": ["A) Degenerative Feedback", "B) Regenerative Feedback", "C) Both", "D) None of the mentioned"],
+        "answer": "A) Degenerative Feedback"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If the gain of positive feedback amplifier is 18 and feedback factor is 0.5, the gain of the amplifier without feedback will be",
+        "image": null,
+        "options": ["A) 18", "B) 1.8", "C) 180", "D) 3.6"],
+        "answer": "B) 1.8"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A Hartley oscillator is used for generating...... frequency oscillation",
+        "image": null,
+        "options": ["A) Very low", "B) Radio", "C) Microwave", "D) Audio"],
+        "answer": "B) Radio"
+    }
+    ,
+    {
+        "subject": "Analog Circuits",
+        "question": "The early effect in BJT is caused by",
+        "image": null,
+        "options": ["A) Fast turn OFF", "B) Fast turn ON", "C) Large emitter to base forward bias", "D) Large collector to base reverse bias"],
+        "answer": "D) Large collector to base reverse bias"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The Efficiency of half wave bridge rectifier under best condition is:",
+        "image": null,
+        "options": ["A) 25.5%", "B) 35%", "C) 40.6%", "D) 81.2%"],
+        "answer": "C) 40.6%"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Which of the following BJT configuration has highest power gain",
+        "image": null,
+        "options": ["A) Common Collector", "B) Common Emitter", "C) Common Base", "D) None of the above"],
+        "answer": "B) Common Emitter"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "What is the purpose of a coupling capacitor in an amplifier circuit?",
+        "image": null,
+        "options": ["A) To filter out high-frequency noise", "B) To block DC and allow AC signals to pass", "C) To provide power supply to the amplifier", "D) To increase the gain of the amplifier"],
+        "answer": "B) To block DC and allow AC signals to pass"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "What is the purpose of negative feedback in an amplifier?",
+        "image": null,
+        "options": ["A) Increase distortion", "B) Increase gain", "C) Improve stability and reduce distortion", "D) Decrease bandwidth"],
+        "answer": "C) Improve stability and reduce distortion"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In a transistor if β = 100 and collector current is 10 mA, then I_E is .........",
+        "image": null,
+        "options": ["A) 100 mA", "B) 10.10 mA", "C) 110 mA", "D) None of the above"],
+        "answer": "B) 10.10 mA"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In the hybrid-π model for the BJT small signal analysis, r_π denotes",
+        "image": null,
+        "options": ["A) Input resistance", "B) Trans conductance", "C) Output resistance", "D) Trans impedance"],
+        "answer": "A) Input resistance"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Oscillators requires.............",
+        "image": null,
+        "options": ["A) No feedback", "B) Negative feedback", "C) Positive feedback", "D) None of the above"],
+        "answer": "C) Positive feedback"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The unit of voltage gain.........",
+        "image": null,
+        "options": ["A) dB", "B) Volt", "C) Ampere", "D) No unit"],
+        "answer": "D) No unit"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "How many cascaded stages of CE amplifier will results in polarity inversion of the input signal",
+        "image": null,
+        "options": ["A) Two", "B) Three", "C) Four", "D) None of these"],
+        "answer": "B) Three"
+    }
+    ,
+    {
+        "subject": "Analog Circuits",
+        "question": "An RC Low Pass filter act as integrator for analog signal of time period T if the time constant RC of circuit satisfy",
+        "image": null,
+        "options": ["A) RC >> 16 T", "B) RC = T", "C) RC << 16 T", "D) RC = 0.0016T"],
+        "answer": "A) RC >> 16 T"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In an amplifier circuit the emitter is at ac ground potential then the configuration is/are",
+        "image": null,
+        "options": ["A) Common Base Configuration", "B) Common Collector Configuration", "C) Common Emitter Configuration", "D) Common Base and Common Collector Configuration"],
+        "answer": "C) Common Emitter ConfigurationS"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In a CE amplifier the input impedance is equal to the ratio of",
+        "image": null,
+        "options": ["A) AC base voltage to ac base current", "B) AC base voltage to ac emitter current", "C) AC emitter voltage to AC collector current", "D) AC collector voltage to AC collector current"],
+        "answer": "A) AC base voltage to ac base current"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In an amplifier the coupling capacitor are employed for",
+        "image": null,
+        "options": ["A) Increasing the gain", "B) Matching the impedance", "C) Controlling the output", "D) Preventing of DC mixing with input or output"],
+        "answer": "D) Preventing of DC mixing with input or output"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Consider the voltage gain of an amplifier without and with feedback are 100 and 20 respectively. Find the negative feedback factor of feedback network (in %)",
+        "image": null,
+        "options": ["A) 4%", "B) 5%", "C) 20%", "D) 80%"],
+        "answer": "A) 4%"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In an oscillator the total phase shift around the loop must be",
+        "image": null,
+        "options": ["A) 180°", "B) 90°", "C) 270°", "D) 0°"],
+        "answer": "D) 0°"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Push pull configuration is used in power amplifier to",
+        "image": null,
+        "options": ["A) Improve power handling capability", "B) Balance out odd harmonics", "C) Balance out even harmonics", "D) Reduce input impedance"],
+        "answer": "C) Balance out even harmonics"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In a series regulator, what is the purpose of fold-back limiting",
+        "image": null,
+        "options": ["A) To provide more current in the case of a short circuit", "B) To limit output voltage if input voltage goes too high", "C) To bypass the pass-transistor, if the pass-transistor should fail", "D) To provide current up to a maximum, but drop current to a lower value when the output becomes shorted, to prevent overheating of the device"],
+        "answer": "D) To provide current up to a maximum, but drop current to a lower value when the output becomes shorted, to prevent overheating of the device"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Diode Connected MOSFET act as",
+        "image": null,
+        "options": ["A) Voltage Source", "B) Current Source", "C) Load Impedance", "D) Buffer"],
+        "answer": "C) Load Impedance"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "When two amplifiers each of bandwidth f_H = 10kHz are cascaded, the overall bandwidth become",
+        "image": null,
+        "options": ["A) 10kHz", "B) 6.4kHz", "C) 5kHz", "D) 20kHz"],
+        "answer": "B) 6.4kHz"
+    }
+    ,
+    {
+        "subject": "Analog Circuits",
+        "question": "The wave shaping elements are ______.",
+        "image": null,
+        "options": ["A) Resistor", "B) Capacitor", "C) Diode", "D) All are correct"],
+        "answer": "D) All are correct"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The formula used to calculate the time constant in inductive circuit is ______.",
+        "image": null,
+        "options": ["A) RC", "B) L/R", "C) R/C", "D) LC/R"],
+        "answer": "B) L/R"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Transistor biasing represents ...... Conditions",
+        "image": null,
+        "options": ["A) AC", "B) DC", "C) Both AC and DC", "D) None of these"],
+        "answer": "B) DC"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "For faithful amplification by a transistor circuit, the value of V_BE should ...... For a silicon transistor",
+        "image": null,
+        "options": ["A) Be zero", "B) Be 0.01 V", "C) Not fall below 0.7 V", "D) Be between 0 V and 0.1 V"],
+        "answer": "C) Not fall below 0.7 V"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If the collector supply is 10V, then collector cut off voltage under d.c. conditions is .......",
+        "image": null,
+        "options": ["A) 20V", "B) 5 V", "C) 2 V", "D) 10 V"],
+        "answer": "D) 10 V"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "The input capacitor in an amplifier is the ...... capacitor",
+        "image": null,
+        "options": ["A) Coupling", "B) Bypass", "C) Leakage", "D) None of the above"],
+        "answer": "A) Coupling"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If a transistor amplifier draws 2mA when input voltage is 10 V, then its input impedance is ....",
+        "image": null,
+        "options": ["A) 20 KΩ", "B) 2 KΩ", "C) 10 KΩ", "D) 5 KΩ"],
+        "answer": "D) 5 KΩ"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A CE amplifier is also called ...... circuit",
+        "image": null,
+        "options": ["A) Grounded Emitter", "B) Grounded Base", "C) Grounded Collector", "D) None of these"],
+        "answer": "A) Grounded Emitter"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If a three stage amplifier has individual stage gains of 10db, 6db and 15db; then the total gain in db is _____",
+        "image": null,
+        "options": ["A) 600 dB", "B) 24 dB", "C) 14 dB", "D) 31 dB"],
+        "answer": "D) 31 dB"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Ideal regulated power supply is one which has voltage regulation of .......",
+        "image": null,
+        "options": ["A) 0%", "B) 1%", "C) 10%", "D) 5%"],
+        "answer": "A) 0%"
+    }
+    ,
+    
+    
+    
+    
+    
+    {
+        "subject": "Analog Circuits",
+        "question": "The time needed for a pulse to rise from 10% to 90% of its maximum amplitude is defined as the",
+        "image": null,
+        "options": ["A) Delay time", "B) Rise time", "C) Settling time", "D) Propagation time"],
+        "answer": "B) Rise time"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "In a class B push-pull amplifier, the transistors are biased slightly above cutoff to avoid",
+        "image": null,
+        "options": ["A) Excessive power dissipation", "B) Excessive efficiency", "C) Cross over distortion", "D) None of these"],
+        "answer": "C) Cross over distortion"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "If the ac supply is 50 Hz, what will be the ripple frequency out of the full-wave rectifier?",
+        "image": null,
+        "options": ["A) 50", "B) 60", "C) 100", "D) 120"],
+        "answer": "C) 100"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "High frequency gain of RC coupled amplifier falls due to",
+        "image": null,
+        "options": ["A) Low R_L", "B) High C_c", "C) Low input capacitance", "D) High junction capacitance"],
+        "answer": "D) High junction capacitance"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "A transformer coupled class A amplifier has a maximum theoretical conversion efficiency of",
+        "image": null,
+        "options": ["A) 25%", "B) 50%", "C) 66.6%", "D) 75%"],
+        "answer": "B) 50%"
+    },
+    
+    {
+    "subject": "Analog Circuits",
+    "question": "If the feedback voltage and the output voltage are given as 10 V and 4V. Find the gain of the feedback circuit in voltage-series feedback amplifier?",
+    "image": null,
+    "options": ["A) 2.5 V", "B) 40V", "C) 3 V", "D) 6.2V"],
+    "answer": "A) 2.5 V"
+}
+,
+
+    {
+        "subject": "Analog Circuits",
+        "question": "What is the region on the output characteristics below I_c = I_c0 line called?",
+        "image": null,
+        "options": ["A) Active region", "B) Cut off region", "C) Saturation region", "D) None of these"],
+        "answer": "B) Cut off region"
+    },
+    {
+        "subject": "Analog Circuits",
+        "question": "Given that the collector power dissipation is 300 mW, what is the value of collector to emitter voltage for collector current = 50 mA?",
+        "image": null,
+        "options": ["A) 6V", "B) 3V", "C) 0V", "D) 2V"],
+        "answer": "A) 6V"
+    }
+
+]

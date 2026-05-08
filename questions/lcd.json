@@ -1,0 +1,510 @@
+[
+    {
+        "subject": "LCD",
+        "question": "(E7F6)₁₆ = ( )₁₀",
+        "image": null,
+        "options": ["A) 59382", "B) 600000", "C) 9362", "D) 382"],
+        "answer": "A) 59382"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of these are universal gates?",
+        "image": null,
+        "options": ["A) Only NOR", "B) Only NAND", "C) Both NOR and NAND", "D) NOR, NAND, NOT"],
+        "answer": "C) Both NOR and NAND"
+    },
+    {
+        "subject": "LCD",
+        "question": "A + A.B",
+        "image": null,
+        "options": ["A) B", "B) A.B", "C) A", "D) A or B"],
+        "answer": "C) A"
+    },
+    {
+        "subject": "LCD",
+        "question": "(1100110)₂ = ( )₈",
+        "image": null,
+        "options": ["A) 242", "B) 446", "C) 146", "D) 58"],
+        "answer": "C) 146"
+    },
+    {
+        "subject": "LCD",
+        "question": "A counter has 4 flip flops. It divides the input frequency by",
+        "image": null,
+        "options": ["A) 4", "B) 2", "C) 8", "D) 16"],
+        "answer": "D) 16"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which has the lowest propagation delay?",
+        "image": null,
+        "options": ["A) ECL", "B) TTL", "C) CMOS", "D) PMOS"],
+        "answer": "A) ECL"
+    },
+    {
+        "subject": "LCD",
+        "question": "To convert JK flip flop to D flip flop",
+        "image": null,
+        "options": ["A) Connect D to both J and K", "B) Connect D to J directly and D to K through inverter", "C) Connect D to K directly and D to J through inverter", "D) Connect D to K and leave J open"],
+        "answer": "B) Connect D to J directly and D to K through inverter"
+    },
+    {
+        "subject": "LCD",
+        "question": "A monostable multivibrator has",
+        "image": null,
+        "options": ["A) No stable state", "B) One stable state", "C) Two stable states", "D) None of these"],
+        "answer": "B) One stable state"
+    },
+    {
+        "subject": "LCD",
+        "question": "Nibble is",
+        "image": null,
+        "options": ["A) A string of 4 bits", "B) A string of 8 bits", "C) A string of 16 bits", "D) A string of 64 bits"],
+        "answer": "A) A string of 4 bits"
+    },
+    {
+        "subject": "LCD",
+        "question": "What is the number of selector lines required in a single input n-output demultiplexer?",
+        "image": null,
+        "options": ["A) n", "B) 2", "C) 2ⁿ", "D) log₂ n"],
+        "answer": "D) log₂ n"
+    }
+    ,
+    
+    {
+        "subject": "LCD",
+        "question": "101112 is equal to decimal number",
+        "image": null,
+        "options": ["A) 47", "B) 37", "C) 17", "D) 23"],
+        "answer": "D) 23"
+    },
+    {
+        "subject": "LCD",
+        "question": "7BF₁₆ = (........)₂",
+        "image": null,
+        "options": ["A) 0111 1011 1110", "B) 0111 1011 1111", "C) 0111 1011", "D) 0111 1011 0011 0111"],
+        "answer": "B) 0111 1011 1111"
+    },
+    {
+        "subject": "LCD",
+        "question": "In Boolean algebra Ā . A is equal to",
+        "image": null,
+        "options": ["A) 1", "B) A", "C) A²", "D) 0"],
+        "answer": "D) 0"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which gates corresponds to the action of parallel switches?",
+        "image": null,
+        "options": ["A) AND", "B) OR", "C) NAND", "D) NOR"],
+        "answer": "B) OR"
+    },
+    {
+        "subject": "LCD",
+        "question": "A sequential circuits with twelve states will have:",
+        "image": null,
+        "options": ["A) 10 flipflop", "B) 12 flipflop", "C) 3 flipflop", "D) 4 flipflop"],
+        "answer": "D) 4 flipflop"
+    },
+    {
+        "subject": "LCD",
+        "question": "As compared to TTL, CMOS logic has",
+        "image": null,
+        "options": ["A) Higher speed of operation", "B) Higher power dissipation", "C) Smaller physical size", "D) All of the above"],
+        "answer": "C) Smaller physical size"
+    },
+    {
+        "subject": "LCD",
+        "question": "A mod 4 counter will count",
+        "image": null,
+        "options": ["A) From 0 to 4", "B) From 0 to 3", "C) From any number n to n+4", "D) None of the above"],
+        "answer": "B) From 0 to 3"
+    },
+    {
+        "subject": "LCD",
+        "question": "A counter has N flip flops. The total number of states are",
+        "image": null,
+        "options": ["A) N", "B) 2^N", "C) 2N", "D) 4^N"],
+        "answer": "B) 2^N"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which logic device is called a data distributor?",
+        "image": null,
+        "options": ["A) MUX", "B) DEMUX", "C) Encoder", "D) Decoder"],
+        "answer": "B) DEMUX"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which has lowest propagation delay?",
+        "image": null,
+        "options": ["A) ECL", "B) TTL", "C) CMOS", "D) PMOS"],
+        "answer": "A) ECL"
+    }
+    ,
+    {
+        "subject": "LCD",
+        "question": "The 2's complement representation of the decimal number (-4) is",
+        "image": null,
+        "options": ["A) 1011", "B) 1010", "C) 1001", "D) 0100"],
+        "answer": "D) 0100"
+    },
+    {
+        "subject": "LCD",
+        "question": "If (0.100)₂ = (X)₁₀, then X is",
+        "image": null,
+        "options": ["A) 0.5", "B) 0.1", "C) 0.2", "D) 0.01"],
+        "answer": "A) 0.5"
+    },
+    {
+        "subject": "LCD",
+        "question": "The expression (X + \u0305X Y) is equal to",
+        "image": null,
+        "options": ["A) 1", "B) 0", "C) X+Y", "D) 1+Y"],
+        "answer": "C) X+Y"
+    },
+    {
+        "subject": "LCD",
+        "question": "In Boolean algebra \u0305A A is equal to",
+        "image": null,
+        "options": ["A) 1", "B) A", "C) A²", "D) 0"],
+        "answer": "D) 0"
+    },
+    {
+        "subject": "LCD",
+        "question": "The minimum number of gates required to realize the function AB + \u0305C using NAND only is",
+        "image": null,
+        "options": ["A) 2", "B) 3", "C) 4", "D) 6"],
+        "answer": "A) 2"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which logic device is called a data distributor?",
+        "image": null,
+        "options": ["A) MUX", "B) DEMUX", "C) Encoder", "D) Decoder"],
+        "answer": "B) DEMUX"
+    },
+    {
+        "subject": "LCD",
+        "question": "How many full adders are required in a serial adder to perform 8-bit addition",
+        "image": null,
+        "options": ["A) 2", "B) 1", "C) 3", "D) 4"],
+        "answer": "B) 1"
+    },
+    {
+        "subject": "LCD",
+        "question": "Ring and Johnson counters are:",
+        "image": null,
+        "options": ["A) Synchronous counter", "B) Asynchronous counter", "C) Binary counter", "D) Shift registers counter"],
+        "answer": "A) Synchronous counter"
+    },
+    {
+        "subject": "LCD",
+        "question": "An 8-bit SISO mode needs ...... Clock pulses to load an 8-bit number into a register",
+        "image": null,
+        "options": ["A) 4", "B) 1", "C) 8", "D) 2"],
+        "answer": "C) 8"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of the following technology results in least power dissipation",
+        "image": null,
+        "options": ["A) TTL", "B) DTL", "C) NMOS", "D) CMOS"],
+        "answer": "D) CMOS"
+    }
+    ,
+
+
+    {
+        "subject": "LCD",
+        "question": "If (432)₅ = (X)₁₇, then the value of X is",
+        "image": null,
+        "options": ["A) 522", "B) 225", "C) 252", "D) 250"],
+        "answer": "B) 225"
+    },
+    {
+        "subject": "LCD",
+        "question": "A (7,4) hamming code contains ...... parity bits.",
+        "image": null,
+        "options": ["A) 4", "B) 2", "C) 3", "D) 1"],
+        "answer": "C) 3"
+    },
+    {
+        "subject": "LCD",
+        "question": "The decimal equivalent of binary 10110.11 is :",
+        "image": null,
+        "options": ["A) 16.75", "B) 20.75", "C) 16.50", "D) 22.75"],
+        "answer": "D) 22.75"
+    },
+    {
+        "subject": "LCD",
+        "question": "If A and B are the Boolean variables, then what is (A+B).(A+\\bar{B}) equal to ?",
+        "image": null,
+        "options": ["A) B", "B) A", "C) A+B", "D) AB"],
+        "answer": "B) A"
+    },
+    {
+        "subject": "LCD",
+        "question": "The dual of A+B+C is ......",
+        "image": null,
+        "options": ["A) A.B.C", "B) A+BC", "C) (A+B).C", "D) (A.B+C)"],
+        "answer": "A) A.B.C"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which gates corresponds to the action of parallel switches ?",
+        "image": null,
+        "options": ["A) AND", "B) OR", "C) NAND", "D) NOR"],
+        "answer": "B) OR"
+    },
+    {
+        "subject": "LCD",
+        "question": "An OR gate has 4 input in which one input is high and other three are low. The output",
+        "image": null,
+        "options": ["A) Is low", "B) Is high", "C) Alternately high and low", "D) None of these"],
+        "answer": "B) Is high"
+    },
+    {
+        "subject": "LCD",
+        "question": "A sequential circuits with twelve states will have:",
+        "image": null,
+        "options": ["A) 10 flipflop", "B) 12 flipflop", "C) 4 flipflop", "D) 3 flipflop"],
+        "answer": "C) 4 flipflop"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of the following is not a sequential circuit?",
+        "image": null,
+        "options": ["A) flipflop", "B) counter", "C) register", "D) decoder"],
+        "answer": "D) decoder"
+    },
+    {
+        "subject": "LCD",
+        "question": "The noise margin of a TTL gate is about",
+        "image": null,
+        "options": ["A) 0.2 V", "B) 0.4 V", "C) 0.8 V", "D) 0.6 V"],
+        "answer": "B) 0.4 V"
+    }
+    ,
+    {
+        "subject": "LCD",
+        "question": "The decimal equivalent of 2's complement representation 1100101 is",
+        "image": null,
+        "options": ["A) +37", "B) -31", "C) +27", "D) -27"],
+        "answer": "D) -27"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which gate is called the anti-coincidence and coincidence gate respectively?",
+        "image": null,
+        "options": ["A) XNOR and XOR", "B) AND and OR", "C) OR and NOT", "D) XOR and XNOR"],
+        "answer": "D) XOR and XNOR"
+    },
+    {
+        "subject": "LCD",
+        "question": "The simplified form of the Boolean expression A(A + B)",
+        "image": null,
+        "options": ["A) A", "B) B", "C) A + B", "D) AB"],
+        "answer": "A) A"
+    },
+    {
+        "subject": "LCD",
+        "question": "For implementing 4 bit full adder how many half adder and OR gates are required",
+        "image": null,
+        "options": ["A) 8 and 4", "B) 7 and 4", "C) 7 and 3", "D) 8 and 3"],
+        "answer": "C) 7 and 3"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of the following Flip-Flop do not have race around problem",
+        "image": null,
+        "options": ["A) T Flip Flop", "B) JK Flip Flop", "C) D Flip Flop", "D) None of the above"],
+        "answer": "C) D Flip Flop"
+    },
+    {
+        "subject": "LCD",
+        "question": "The output frequency of an 5 bit ring counter with an input clock frequency of 20 kHz is",
+        "image": null,
+        "options": ["A) 20 kHz", "B) 10kHz", "C) 5kHz", "D) 4kHz"],
+        "answer": "D) 4kHz"
+    },
+    {
+        "subject": "LCD",
+        "question": "To convert JK Flip Flop to D Flip Flop",
+        "image": null,
+        "options": ["A) Connect D to both J and K", "B) Connect D to J directly and D to K through inverter", "C) Connect D to K directly and D to J through inverter", "D) Connect D to K and leave J open"],
+        "answer": "B) Connect D to J directly and D to K through inverter"
+    },
+    {
+        "subject": "LCD",
+        "question": "In a positive edge triggered JK Flip Flop, J = 1; K = 0 and clock pulse is rising Q(n+1) will be",
+        "image": null,
+        "options": ["A) Q_n", "B) \u0305Q_n", "C) 1", "D) 0"],
+        "answer": "C) 1"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of the following is a sequential circuit",
+        "image": null,
+        "options": ["A) Full Adder", "B) Encoder", "C) Multiplexer", "D) Master Slave Flip Flop"],
+        "answer": "D) Master Slave Flip Flop"
+    },
+    {
+        "subject": "LCD",
+        "question": "Which of the logic family have lowest propagation delay time",
+        "image": null,
+        "options": ["A) ECL", "B) TTL", "C) CMOS", "D) RTL"],
+        "answer": "A) ECL"
+    }
+    ,
+    {
+        "subject": "LCD",
+        "question": "The representation of octal number (532.2)₈ in decimal is ______",
+        "image": null,
+        "options": ["A) (346.25)₁₀", "B) (532.864)₁₀", "C) (340.67)₁₀", "D) (531.668)₁₀"],
+        "answer": "A) (346.25)₁₀"
+    },
+    {
+        "subject": "LCD",
+        "question": "Convert binary to octal: (110110001010)₂ = ...",
+        "image": null,
+        "options": ["A) (5512)₈", "B) (6612)₈", "C) (4532)₈", "D) (6745)₈"],
+        "answer": "B) (6612)₈"
+    },
+    {
+        "subject": "LCD",
+        "question": "The expression for Absorption law is given by ______",
+        "image": null,
+        "options": ["A) A + AB = A", "B) A + AB = B", "C) AB + AA' = A", "D) A + B = B + A"],
+        "answer": "A) A + AB = A"
+    },
+    {
+        "subject": "LCD",
+        "question": "De Morgan's theorem states that ______",
+        "image": null,
+        "options": ["A) (AB)' = A' + B'", "B) (A + B)' = A' * B", "C) A' + B' = A'B'", "D) (AB)' = A' + B"],
+        "answer": "A) (AB)' = A' + B'"
+    },
+    {
+        "subject": "LCD",
+        "question": "The logical sum of two or more logical product terms is called ______",
+        "image": null,
+        "options": ["A) SOP", "B) POS", "C) OR operation", "D) NAND operation"],
+        "answer": "A) SOP"
+    },
+    {
+        "subject": "LCD",
+        "question": "There are ______ Minterms for 3 variables (a, b, c).",
+        "image": null,
+        "options": ["A) 0", "B) 2", "C) 8", "D) 1"],
+        "answer": "C) 8"
+    },
+    {
+        "subject": "LCD",
+        "question": "Perform binary addition: 101101 + 011011 = ...",
+        "image": null,
+        "options": ["A) 011010", "B) 1010100", "C) 101110", "D) 1001000"],
+        "answer": "D) 1001000"
+    },
+    {
+        "subject": "LCD",
+        "question": "All logic operations can be obtained by means of ______",
+        "image": null,
+        "options": ["A) AND and NAND operations", "B) OR and NOR operations", "C) OR and NOT operations", "D) NAND and NOR operations"],
+        "answer": "D) NAND and NOR operations"
+    },
+    {
+        "subject": "LCD",
+        "question": "If A and B are the inputs of a half adder, the sum is given by ______",
+        "image": null,
+        "options": ["A) A AND B", "B) A OR B", "C) A XOR B", "D) A XNOR B"],
+        "answer": "C) A XOR B"
+    },
+    {
+        "subject": "LCD",
+        "question": "A latch is an example of a ______",
+        "image": null,
+        "options": ["A) Monostable multivibrator", "B) Astable multivibrator", "C) Bistable multivibrator", "D) 555 timer"],
+        "answer": "C) Bistable multivibrator"
+    }
+    ,
+    
+    {
+        "subject": "LCD",
+        "question": "Any signed negative binary number is recognised by its ______",
+        "image": null,
+        "options": ["A) MSB", "B) LSB", "C) Byte", "D) Nibble"],
+        "answer": "A) MSB"
+    },
+    {
+        "subject": "LCD",
+        "question": "The representation of octal number (532.2)₈ in decimal is ______",
+        "image": null,
+        "options": ["A) 346.25", "B) 532.864", "C) 340.67", "D) 531.668"],
+        "answer": "A) 346.25"
+    },
+    {
+        "subject": "LCD",
+        "question": "An important drawback of binary system is ______",
+        "image": null,
+        "options": ["A) It requires very large string of 1's and 0's to represent a decimal number", "B) It requires sparingly small string of 1's and 0's to represent a decimal number", "C) It requires large string of 1's and small string of 0's to represent a decimal number", "D) It requires small string of 1's and large string of 0's to represent a decimal number"],
+        "answer": "A) It requires very large string of 1's and 0's to represent a decimal number"
+    },
+    {
+        "subject": "LCD",
+        "question": "The largest two digit hexadecimal number is ______",
+        "image": null,
+        "options": ["A) (FE)₁₆", "B) (FD)₁₆", "C) (FF)₁₆", "D) (EF)₁₆"],
+        "answer": "C) (FF)₁₆"
+    }
+    ,
+    {
+        "subject": "LCD",
+        "question": "In a J-K flip-flop, if J=K the resulting flip-flop is referred to as ______",
+        "image": null,
+        "options": ["A) D flip-flop", "B) S-R flip-flop", "C) T flip-flop", "D) S-K flip-flop"],
+        "answer": "C) T flip-flop"
+    },
+    {
+        "subject": "LCD",
+        "question": "How many stable states combinational circuits have?",
+        "image": null,
+        "options": ["A) 3", "B) 2", "C) 41", "D) 0"],
+        "answer": "D) 0"
+    },
+    {
+        "subject": "LCD",
+        "question": "The flip-flops which has not any invalid states are ______",
+        "image": null,
+        "options": ["A) S-R, J-K, D", "B) S-R, J-K, T", "C) J-K, D, S-R", "D) J-K, D, T"],
+        "answer": "D) J-K, D, T"
+    },
+    {
+        "subject": "LCD",
+        "question": "What is the minimum number of flip-flops needed to build a MOD-17 up counter?",
+        "image": null,
+        "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+        "answer": "D) 5"
+    },
+    {
+        "subject": "LCD",
+        "question": "What is the counting range of a BCD counter?",
+        "image": null,
+        "options": ["A) 0 to 10", "B) 1 to 10", "C) 0 to 9", "D) 1 to 9"],
+        "answer": "C) 0 to 9"
+    },
+    {
+        "subject": "LCD",
+        "question": "A ripple counter's speed is limited by the propagation delay of ______",
+        "image": null,
+        "options": ["A) Each flip-flop", "B) All flip-flops and gates", "C) The flip-flops only with gates", "D) Only circuit gates"],
+        "answer": "A) Each flip-flop"
+    },
+    {
+        "subject": "LCD",
+        "question": "How many flip-flops are required to construct a decade counter?",
+        "image": null,
+        "options": ["A) 4", "B) 8", "C) 5", "D) 10"],
+        "answer": "A) 4"
+    }
+]

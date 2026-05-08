@@ -1,0 +1,494 @@
+[
+    {
+        "subject": "LIC",
+        "question": "In a linear op-amp circuit",
+        "image": null,
+        "options": ["A) The product of gain and bandwidth is constant", "B) Input can be dc only", "C) Input can be ac only", "D) None of these"],
+        "answer": "A) The product of gain and bandwidth is constant"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which of the following circuit is op-amp used in open loop configuration?",
+        "image": null,
+        "options": ["A) Comparator", "B) Summing amplifier", "C) Integrating amplifier", "D) Logarithmic amplifier"],
+        "answer": "A) Comparator"
+    },
+    {
+        "subject": "LIC",
+        "question": "The slew rate for an ideal op-amp is",
+        "image": null,
+        "options": ["A) Very slow", "B) Slow", "C) Finite", "D) Infinitely fast"],
+        "answer": "D) Infinitely fast"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "If input Vin is triangular, the output Vout will be",
+        "image": "images/opamp_circuit1.png.png",
+        "options": ["A) Square wave", "B) Sine wave", "C) Triangular wave", "D) Spikes"],
+        "answer": "A) Square wave"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "A 741 op-amp has a gain bandwidth product of 1 MHz. A non-inverting amplifier using this op-amp and having a voltage gain of 20dB will exhibit a 3dB bandwidth of",
+        "image": null,
+        "options": ["A) 50kHz", "B) 100kHz", "C) 1000kHz", "D) 25kHz"],
+        "answer": "B) 100kHz"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which of the following electrical characteristics is not exhibited by an ideal op-amp?",
+        "image": null,
+        "options": ["A) Infinite voltage gain", "B) Infinite bandwidth", "C) Infinite output resistance", "D) Infinite slew rate"],
+        "answer": "C) Infinite output resistance"
+    },
+    {
+        "subject": "LIC",
+        "question": "Calculate the output voltage for the given circuit assuming gain of the amplifier, A=4",
+        "image": "images/opamp_circuit_a4.png",
+        "options": ["A) Vo = 7V", "B) Vo = 5.9V", "C) Vo = 12V", "D) Vo = 11.4V"],
+        "answer": "C) Vo = 12V"
+    },
+    {
+        "subject": "LIC",
+        "question": "What happens if any positive input signal is applied to open loop configuration of op-amp?",
+        "image": null,
+        "options": ["A) Output reaches saturation level", "B) Output is a sine wave", "C) No output", "D) None of These"],
+        "answer": "A) Output reaches saturation level"
+    },
+    {
+        "subject": "LIC",
+        "question": "Why differential amplifiers are preferred for instrumentation and industrial applications",
+        "image": null,
+        "options": ["A) Input resistance is low", "B) Produce amplified output", "C) Amplify individual input voltage", "D) Reject common mode voltage"],
+        "answer": "D) Reject common mode voltage"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which is not present in the internal circuit of operational amplifier?",
+        "image": null,
+        "options": ["A) Differential Amplifier", "B) Level Shifter", "C) Clamper", "D) Output Driver"],
+        "answer": "C) Clamper"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "The input to an op-amp integrating amplifier is a constant voltage. The output will be",
+        "image": null,
+        "options": ["A) A constant voltage", "B) A sawtooth wave", "C) A ramp", "D) ac voltage"],
+        "answer": "C) A ramp"
+    },
+    {
+        "subject": "LIC",
+        "question": "The output impedance of an ideal op-amp is",
+        "image": null,
+        "options": ["A) zero", "B) low", "C) high", "D) infinite"],
+        "answer": "A) zero"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which of the following circuit is op-amp used in open loop configuration?",
+        "image": null,
+        "options": ["A) comparator", "B) Summing amplifier", "C) Integrating amplifier", "D) Logarithmic amplifier"],
+        "answer": "A) comparator"
+    },
+    {
+        "subject": "LIC",
+        "question": "The slew rate for an ideal op-amp is",
+        "image": null,
+        "options": ["A) Very slow", "B) slow", "C) Finite", "D) Infinitely fast"],
+        "answer": "D) Infinitely fast"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which is not present in the internal circuit of operational amplifier?",
+        "image": null,
+        "options": ["A) Differential", "B) Level Shifter", "C) Output Driver", "D) Clamper"],
+        "answer": "D) Clamper"
+    },
+    {
+        "subject": "LIC",
+        "question": "The functional diagram of a 555 Timer IC consists of ______ comparators.",
+        "image": null,
+        "options": ["A) No Comparators", "B) 1", "C) 2", "D) 3"],
+        "answer": "C) 2"
+    },
+    {
+        "subject": "LIC",
+        "question": "The number of comparator in a 4-bit Flash ADC is",
+        "image": null,
+        "options": ["A) 4", "B) 5", "C) 15", "D) 16"],
+        "answer": "C) 15"
+    },
+    {
+        "subject": "LIC",
+        "question": "Find CMRR, if A_d = 20 dB and A_c = 2 dB?",
+        "image": null,
+        "options": ["A) 18dB", "B) 10dB", "C) 40dB", "D) 38dB"],
+        "answer": "A) 18dB"
+    },
+    {
+        "subject": "LIC",
+        "question": "An instrumentation amplifier uses",
+        "image": null,
+        "options": ["A) 1 op-amp", "B) 2 op-amps", "C) 3 op-amps", "D) 4 op-amps"],
+        "answer": "C) 3 op-amps"
+    },
+    {
+        "subject": "LIC",
+        "question": "Find the gain of a Non inverting amplifier, if V_i = 1V, R_f = 100K, R_i = 10K",
+        "image": null,
+        "options": ["A) 10", "B) 1000", "C) 11", "D) 21"],
+        "answer": "C) 11"
+    }
+    ,
+
+    {
+        "subject": "LIC",
+        "question": "In ideal op-amp the current through the virtual ground is",
+        "image": null,
+        "options": ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+        "answer": "C) Zero"
+    },
+    {
+        "subject": "LIC",
+        "question": "The frequency compensation is used in op-amp to increase its",
+        "image": null,
+        "options": ["A) Gain", "B) Stability", "C) Slew rate", "D) Bandwidth"],
+        "answer": "D) Bandwidth"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is the maximum frequency for a sine wave output voltage of 10V peak with an op-amp, whose slew rate is 1V/µs",
+        "image": null,
+        "options": ["A) 15.92 KHz", "B) 31.83 KHz", "C) 7.96 KHz", "D) 50 KHz"],
+        "answer": "A) 15.92 KHz"
+    },
+    {
+        "subject": "LIC",
+        "question": "For a given op-amp, CMRR = 10⁵ and differential gain 10⁵, what is the common mode gain of the Op-amp",
+        "image": null,
+        "options": ["A) 10", "B) 1", "C) 0", "D) 0.1"],
+        "answer": "B) 1"
+    },
+    {
+        "subject": "LIC",
+        "question": "In RC integrator circuit using op-amp, the output is taken across.............",
+        "image": null,
+        "options": ["A) Resistor", "B) Inductor", "C) Capacitor", "D) Diode"],
+        "answer": "C) Capacitor"
+    },
+    {
+        "subject": "LIC",
+        "question": "An instrumentation amplifier generally uses the following number of Op-amp",
+        "image": null,
+        "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+        "answer": "C) 3"
+    },
+    {
+        "subject": "LIC",
+        "question": "The basic important blocks of IC-555 timer",
+        "image": null,
+        "options": ["A) Voltage source", "B) Flip-Flop", "C) Resistors", "D) Switch"],
+        "answer": "B) Flip-Flop"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which one of the following is a regulated power supply?",
+        "image": null,
+        "options": ["A) IC 555", "B) IC 723", "C) IC 844", "D) IC 3080"],
+        "answer": "B) IC 723"
+    },
+    {
+        "subject": "LIC",
+        "question": "The number of comparator in a 4-bit Flash ADC is",
+        "image": null,
+        "options": ["A) 4", "B) 5", "C) 15", "D) 16"],
+        "answer": "C) 15"
+    },
+    {
+        "subject": "LIC",
+        "question": "The resolution of N-bit system DAC converter is",
+        "image": null,
+        "options": ["A) 1/2^N", "B) 1/(2^N - 1)", "C) (2^N - 1)", "D) 2^N"],
+        "answer": "B) 1/(2^N - 1)"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "What is CMRR, if A_d = 30 dB and A_c = 2 dB?",
+        "image": null,
+        "options": ["A) 26 dB", "B) 28 dB", "C) 32 dB", "D) 15 dB"],
+        "answer": "B) 28 dB"
+    },
+    {
+        "subject": "LIC",
+        "question": "Logarithmic amplifiers are used in ......",
+        "image": null,
+        "options": ["A) Adders", "B) Dividers", "C) Multipliers", "D) All of the above"],
+        "answer": "D) All of the above"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is PSRR value of an Ideal Op-amp",
+        "image": null,
+        "options": ["A) Zero", "B) unity", "C) infinite", "D) unpredictable"],
+        "answer": "A) Zero"
+    },
+    {
+        "subject": "LIC",
+        "question": "The rise time of low pass RC circuit is given by",
+        "image": null,
+        "options": ["A) 2.2RC", "B) 30.2RC", "C) 10RC", "D) 22RC"],
+        "answer": "A) 2.2RC"
+    },
+    {
+        "subject": "LIC",
+        "question": "The following configuration is an example of positive feedback system:",
+        "image": null,
+        "options": ["A) Inverting amplifier", "B) Non-Inverting amplifier", "C) Schmitt Trigger", "D) None of these"],
+        "answer": "C) Schmitt Trigger"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is the Time period of a Monostable 555 Multivibrator?",
+        "image": null,
+        "options": ["A) T=3 RC", "B) T=3.3 RC", "C) T=1.1RC", "D) T=1.3RC"],
+        "answer": "C) T=1.1RC"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is the primary purpose of a phase-locked loop (PLL) in linear integrated circuits?",
+        "image": null,
+        "options": ["A) Voltage amplification", "B) Frequency synthesis and synchronization", "C) Voltage stabilization", "D) None of these"],
+        "answer": "B) Frequency synthesis and synchronization"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which configuration of an operational amplifier provides a voltage gain greater than 1?",
+        "image": null,
+        "options": ["A) Inverting amplifier", "B) Non Inverting amplifier", "C) Differential amplifier", "D) Voltage follower"],
+        "answer": "B) Non Inverting amplifier"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is the primary function of a voltage-controlled oscillator (VCO) in linear integrated circuits?",
+        "image": null,
+        "options": ["A) Voltage amplification", "B) Frequency modulation", "C) Voltage stabilization", "D) Digital signal processing"],
+        "answer": "B) Frequency modulation"
+    },
+    {
+        "subject": "LIC",
+        "question": "Find the gain of a Non inverting amplifier, if V_i = 1V, R_f = 10K, R_i = 1K",
+        "image": null,
+        "options": ["A) 10", "B) 1000", "C) 11", "D) Infinity"],
+        "answer": "C) 11"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "The output of a particular OP-amp increases 12 V in 8 µs. The slew rate is ....",
+        "image": null,
+        "options": ["A) 90 V/µs", "B) 12 V/µs", "C) 1.5 V/µs", "D) Infinity"],
+        "answer": "C) 1.5 V/µs"
+    },
+    {
+        "subject": "LIC",
+        "question": "For an inverting amplifier R_f = 10kΩ and feedback resistor is R_f = 100 kΩ. Then closed loop gain of OP-amp is",
+        "image": null,
+        "options": ["A) -10", "B) -11", "C) -1", "D) Infinity"],
+        "answer": "A) -10"
+    },
+    {
+        "subject": "LIC",
+        "question": "The given Circuit is used as",
+        "image": "images/log_amplifier.png",
+        "options": ["A) Precision Full wave Rectifier", "B) Integrator", "C) Log Amplifier", "D) Inverting amplifier"],
+        "answer": "C) Log Amplifier"
+    },
+    {
+        "subject": "LIC",
+        "question": "An OP-amp has an open loop gain of 10⁵ and an open loop upper cut off frequency is 10Hz. If this OP-amp is connected as an amplifier with a closed loop gain of 100, then the new upper cut-off frequency is",
+        "image": null,
+        "options": ["A) 10Hz", "B) 100Hz", "C) 10kHz", "D) 100kHz"],
+        "answer": "C) 10kHz"
+    },
+    {
+        "subject": "LIC",
+        "question": "The functional diagram of a 555 Timer IC consists of ______ comparators.",
+        "image": null,
+        "options": ["A) 1", "B) 2", "C) 3", "D) No Comparators"],
+        "answer": "B) 2"
+    },
+    {
+        "subject": "LIC",
+        "question": "Identify the following OP-amp circuit",
+        "image": "images/weinbridge.png",
+        "options": ["A) Precision Rectifier", "B) Second order Low Pass filter", "C) Precision Integrator", "D) Wien bridge Oscillator"],
+        "answer": "D) Wien bridge Oscillator"
+    },
+    {
+        "subject": "LIC",
+        "question": "Which of the following is not a component of PLL",
+        "image": null,
+        "options": ["A) Frequency Multiplexer", "B) Phase Detector", "C) VCO", "D) Low Pass Filter"],
+        "answer": "A) Frequency Multiplexer"
+    },
+    {
+        "subject": "LIC",
+        "question": "An n-bit Analog to Digital convert is required to convert analog input in the range of 0 to 5 V with an accuracy of 10 mV. Then the value of n should be",
+        "image": null,
+        "options": ["A) 16", "B) 10", "C) 9", "D) 8"],
+        "answer": "C) 9"
+    },
+    {
+        "subject": "LIC",
+        "question": "Find the cut off frequency for an RC low pass filter of R = 10 kΩ and C = 0.003 µF?",
+        "image": null,
+        "options": ["A) 1 kHz", "B) 10 kHz", "C) 2 kHz", "D) 5 kHz"],
+        "answer": "D) 5 kHz"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "Which of the following electrical characteristics is not exhibited by an ideal op-amp?",
+        "image": null,
+        "options": ["A) Infinite voltage gain", "B) Infinite bandwidth", "C) Infinite output impedance", "D) Infinite slew rate"],
+        "answer": "C) Infinite output impedance"
+    },
+    {
+        "subject": "LIC",
+        "question": "If output is measured between two collectors of transistors, then the Differential amplifier with two input signal is said to be configured as",
+        "image": null,
+        "options": ["A) Dual Input Balanced Output", "B) Dual Input Unbalanced Output", "C) Single Input Balanced Output", "D) Single Input Unbalanced Output"],
+        "answer": "A) Dual Input Balanced Output"
+    },
+    {
+        "subject": "LIC",
+        "question": "An inverting amplifier with gain 1 have different input voltage: 1.2 V, 3.2 V and 4.2 V. Find the output voltage?",
+        "image": null,
+        "options": ["A) 4.2 V", "B) 8.6 V", "C) -4.2 V", "D) -8.6 V"],
+        "answer": "D) -8.6 V"
+    },
+    {
+    "subject": "LIC",
+    "question": "If the gain of a non-inverting averaging amplifier is one, determine the input voltages, if the output voltage is 3 V?",
+    "image": null,
+    "options": ["A) V1 = 6 V, V2 = 3 V, V3 = 2 V", "B) V1 = 9 V, V2 = 5 V, V3 = -4 V", "C) V1 = 8 V, V2 = -6 V, V3 = 1 V", "D) V1 = 7 V, V2 = 4 V, V3 = -3 V"],
+    "answer": "D) V1 = 7 V, V2 = 4 V, V3 = -3 V"
+    },
+    {
+        "subject": "LIC",
+        "question": "The temperature of a thermistor increases, when the value of its resistance...",
+        "image": null,
+        "options": ["A) Remains constant", "B) Increase", "C) Decrease", "D) Depends on the heating element"],
+        "answer": "C) Decrease"
+    },
+    {
+        "subject": "LIC",
+        "question": "What is Barkhausen criterion for oscillation?",
+        "image": null,
+        "options": ["A) Aβ > 1", "B) Aβ < 1", "C) Aβ = 1", "D) Aβ ≠ 1"],
+        "answer": "C) Aβ = 1"
+    },
+    {
+        "subject": "LIC",
+        "question": "What will be the phase shift of feedback circuit in RC phase shift oscillator?",
+        "image": null,
+        "options": ["A) 360° phase shift", "B) 180° phase shift", "C) 90° phase shift", "D) 60° phase shift"],
+        "answer": "B) 180° phase shift"
+    },
+    {
+        "subject": "LIC",
+        "question": "The condition for zero phase shift in Wein bridge oscillator is achieved by...",
+        "image": null,
+        "options": ["A) Connecting feedback to non-inverting input terminal of op-amp", "B) Balancing the bridge", "C) Applying parallel combination of RC to the feedback network", "D) All of the mentioned"],
+        "answer": "B) Balancing the bridge"
+    },
+    {
+        "subject": "LIC",
+        "question": "How do we determine the time period of a monostable 555 multivibrator?",
+        "image": null,
+        "options": ["A) T = 0.33 RC", "B) T = 1.1 RC", "C) T = 3 RC", "D) T = RC"],
+        "answer": "B) T = 1.1 RC"
+    },
+    {
+        "subject": "LIC",
+        "question": "At which state the phase-locked loop tracks any change in input frequency?",
+        "image": null,
+        "options": ["A) Free running state", "B) Capture state", "C) Phase locked state", "D) All of the mentioned"],
+        "answer": "C) Phase locked state"
+    }
+    ,
+    {
+        "subject": "LIC",
+        "question": "Which of the following electrical characteristics is not exhibited by an ideal op-amp?",
+        "image": null,
+        "options": ["A) Infinite voltage gain", "B) Infinite bandwidth", "C) Infinite output resistance", "D) Infinite slew rate"],
+        "answer": "C) Infinite output resistance"
+    },
+    {
+        "subject": "LIC",
+        "question": "Given that CMRR is 100dB. Input common-mode voltage is 12 V. Differential voltage gain is 4000. Calculate output common-mode voltage.",
+        "image": null,
+        "options": ["A) 48V", "B) 0.48V", "C) 20", "D) 11"],
+        "answer": "B) 0.48V"
+    },
+    {
+        "subject": "LIC",
+        "question": "Given that for an op-amp the gain is 10³, the slew rate is 1.5V/µsec. Input is 0.005 sin ωt, calculate maximum frequency to prevent distortion.",
+        "image": null,
+        "options": ["A) 47.7 kHz", "B) 0.3 MHz", "C) 477 Hz", "D) 3 kHz"],
+        "answer": "A) 47.7 kHz"
+    },
+    {
+        "subject": "LIC",
+        "question": "The output of an op-amp is ___ out of phase with the input connected to the inverting (–) terminal.",
+        "image": null,
+        "options": ["A) 0 degree", "B) 90 degree", "C) 180 degree", "D) 270 degree"],
+        "answer": "C) 180 degree"
+    },
+    {
+        "subject": "LIC",
+        "question": "If R_f = R_i, the voltage gain V_out/V_in is ___.",
+        "image": "images/lic_q16.png",
+        "options": ["A) 1", "B) -1", "C) 10", "D) Very small"],
+        "answer": "B) -1"
+    },
+    {
+        "subject": "LIC",
+        "question": "The output voltage of an op-amp circuit is always ___ the level of the power supply.",
+        "image": null,
+        "options": ["A) Larger than", "B) Smaller than", "C) Same as", "D) None of the above"],
+        "answer": "B) Smaller than"
+    },
+    {
+        "subject": "LIC",
+        "question": "The voltage gain of a buffer amplifier is ___",
+        "image": null,
+        "options": ["A) 1", "B) 0", "C) -1", "D) 5"],
+        "answer": "A) 1"
+    },
+    {
+        "subject": "LIC",
+        "question": "Determine the output voltage for the below circuit:",
+        "image": "images/lic_q19.png",
+        "options": ["A) 10(V₂-V₁)", "B) -10(V₂-V₁)", "C) -10(V₁-V₂)", "D) None of these"],
+        "answer": "B) -10(V₂-V₁)"
+    },
+    {
+        "subject": "LIC",
+        "question": "Determine the output voltage from the circuit below when V₁ = V₂ = 0.15 V.",
+        "image": "images/lic_q20.png",
+        "options": ["A) 0V", "B) 4.65V", "C) 6.45V", "D) -6.45V"],
+        "answer": "D) -6.45V"
+    },
+    {
+        "subject": "LIC",
+        "question": "Calculate the overall voltage gain of the circuit if R₁ = 100Ω and R₂ = 1 kΩ.",
+        "image": "images/lic_q21.png",
+        "options": ["A) 10", "B) -1", "C) 11", "D) 9"],
+        "answer": "C) 11"
+    }
+]
