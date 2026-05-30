@@ -16,9 +16,9 @@ The **KTU CCW Practice Portal** is an MCQ practice platform designed for **KTU E
 
 ## Live Demo
 
-🔗 **[Click here to use the KTU CCW Practice Portal](https://ktu-ccw-practice-portal.streamlit.app)**
+🔗 https://ktu-ccw-practice-portal.streamlit.app**
 
-> *Note: Replace the URL above with your actual Streamlit Cloud URL after deployment*
+
 
 ## How to Use
 
